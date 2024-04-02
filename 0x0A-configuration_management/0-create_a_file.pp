@@ -1,5 +1,5 @@
 # Create a file if it doesn't exist, and enter a character string.
-file {'/tmp/holberton':
+file {'/tmp/vickyekong':
 ensure  => present,
 mode    => '0744',
 owner   => 'www-data',
