@@ -12,10 +12,9 @@ In this project, I will be configuring a firewall for my servers. I will be usin
 
 * Must have the repository cloned
 
-
+```
 $ sudo apt-get install git
 ```
 
 ## :blue_book: Authors
 * **Victor Edemekong** - [@vickyekong](https://github.com/vickyekong)
-
