@@ -18,14 +18,4 @@ $ sudo apt-get install git
 ```
 
 ## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holberton-system_engineering-devops/blob/master/LICENSE.md) file for details
-
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
+* **Victor Edemekong** - [@vickyekong](https://github.com/vickyekong)
