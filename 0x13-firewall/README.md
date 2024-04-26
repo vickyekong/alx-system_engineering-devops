@@ -1,6 +1,6 @@
 # :shell: 0x13 - Firewall :shell:
 
-In this project I will be configuring a firewall for my servers. I will be using `ufw` firewall software.
+In this project, I will be configuring a firewall for my servers. I will be using `ufw` firewall software.
 
 ## :running: Getting Started
 
@@ -10,22 +10,12 @@ In this project I will be configuring a firewall for my servers. I will be using
 
 * Must have `git` installed
 
-* Must have repository cloned
+* Must have the repository cloned
 
 
-```
 $ sudo apt-get install git
 ```
 
 ## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Victor Edemekong** - [@vickyekong](https://github.com/vickyekong)
 
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holberton-system_engineering-devops/blob/master/LICENSE.md) file for details
-
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
